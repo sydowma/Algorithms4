@@ -42,6 +42,7 @@ public class Selection {
 
         }
         System.out.println(arr);
+
         return arr;
     }
 

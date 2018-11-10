@@ -12,7 +12,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="Algorithms4" target="1.5" />
-      <module name="AlgorithmsMagaofei" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
